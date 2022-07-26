@@ -1,14 +1,13 @@
-# Envio de e-mail com Nodemailer
-<p align="center">API NodeJS com Sequelize ORM</p>
+# API NodeJS com Sequelize ORM
 <hr>
 
 ### ⚡ Tecnologias
 <table>
  <tr>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/></td>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/></td>
+  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" title="TypeScript"/></td>
+  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" title="NodeJS"/></td>
   <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="40" height="40"/></td>
-  <td>Sequelize</td>
+  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" width="40" height="40" title="Sequelize"/></td>
  </tr>
 </table>
 <br>
